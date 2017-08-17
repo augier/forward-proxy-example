@@ -1,0 +1,4 @@
+package: github.com/connectedventures/f8-bookie-proxy
+import:
+- package: github.com/elazarl/goproxy
+  version: aacba83f36a55ac31cbb71c06547a328c0cd1604
