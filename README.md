@@ -1,6 +1,6 @@
 # Forward Proxy Example
 
-This is just simple example of a forward proxy working using (goproxy)[https://github.com/elazarl/goproxy/].
+This is just simple example of a forward proxy working using [goproxy](https://github.com/elazarl/goproxy/).
 
 It consists of a proxy server, a server and a client all of which are contained
 in their own folders.
